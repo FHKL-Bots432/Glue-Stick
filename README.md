@@ -1,8 +1,8 @@
 # Glue Stick
-This is very simple Telegram Videos Merge Bot by [@AbirHasan2005](https://t.me/AbirHasan2005). Using FFmpeg for Merging Videos.
+This is very simple Telegram Glue Stick Bot by [@AbirHasan2005](https://t.me/AbirHasan2005). Using FFmpeg for Merging Videos.
 
 ## Features:
-- Merge Multiple Videos.
+- Sticks Multiple Videos.
 - Permanent Custom Thumbnail Support.
 - Broadcast To All Started Users.
 - 2GB+ Files will Upload to Streamtape.
