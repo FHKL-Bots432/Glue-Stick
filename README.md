@@ -1,4 +1,4 @@
-# VideoMerge-Bot
+# Glue Stick
 This is very simple Telegram Videos Merge Bot by [@AbirHasan2005](https://t.me/AbirHasan2005). Using FFmpeg for Merging Videos.
 
 ## Features:
